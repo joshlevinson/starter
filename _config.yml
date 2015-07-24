@@ -28,6 +28,7 @@ prose:
           value: ""
       - name: "tags"
         field:
+          alterable: "true"
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
